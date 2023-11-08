@@ -1,0 +1,17 @@
+
+/* screen section */
+.screen{
+    height: 50px;
+    width: 90%;
+ 
+    margin: 15px;
+}
+
+/* input area */
+.screen input{
+    height: 100%;
+    width: 100%;
+    text-align: right;
+    font-size: large;
+    padding: 3px;
+}

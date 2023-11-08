@@ -1,0 +1,9 @@
+/* calculator component */
+.calculator{
+    height: 30rem;
+    width: 20rem;
+    background-color: rgb(169, 42, 10);
+    display: flex;
+    flex-direction: column;
+
+}
